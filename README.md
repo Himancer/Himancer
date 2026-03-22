@@ -37,5 +37,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abnahi.tokab)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Himancer)
 
+### 🌐 Languages:
+- English — Professional
+- Hindi — Native 
+- Japanese — Elementary 🇯🇵 
+ (744 day Duolingo streak!)
+
 ---
 ⚡ *"Ab Nahi To Kab 🔥"*
