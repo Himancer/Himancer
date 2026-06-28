@@ -13,7 +13,7 @@ Currently pursuing an **MS in Computer Science at Scaler** (2025–2027).
 | Project | What it is | Stack |
 |---|---|---|
 | [beBetter](https://github.com/Himancer/bebetter) | AI personal fitness companion | Python, JavaScript |
-| [DostEnv](https://github.com/Himancer/Himancer) | Voice-first emotional AI companion | Python, Whisper, NLP |
+| DostEnv *(coming soon)* | Voice-first emotional AI companion in Hinglish | Python, Whisper, NLP |
 | [EduInsta](https://github.com/Himancer/EduInsta) | AI-generated 1-min science explainer videos | Python, JS |
 | [GreenHive.ai](https://github.com/Himancer/greenhive-ai) | AI-powered plant e-commerce | Next.js 14, TypeScript |
 
