@@ -1,64 +1,75 @@
 # Hi, I'm Himanshu Pandey 👋
 
-### AI/ML Engineer · FinTech · Building emotionally intelligent tech
+### Software Engineer · FinTech / Post-Trade · Backend & AI Applications
 
-I'm a software engineer at **Broadridge India** working on clearing & settlement systems for fixed income securities. By day I work with AS400, DB2, and RPGLE. By night I build AI products.
+Software Engineer at **Broadridge India** with **2.5+ years of experience** across fixed-income clearing & settlement, production systems, backend integrations, and full-stack development. I work on Broadridge's **IMPACT** post-trade platform and build modern AI/full-stack products outside work.
 
-Currently pursuing an **MS in Computer Science at Scaler** (2025–2027).
+**Core:** Java · Python · SQL · REST APIs · React · Next.js · PostgreSQL · DB2 · IBM MQ · AS400  
+**Domain:** Fixed Income · Clearing & Settlement · CNS · NSCC/GSCC · EOD Processing  
+**AI:** LLM applications · Groq/Llama · Hugging Face · NLP
+
+Currently pursuing an **M.S. in Computer Science at Scaler (2025–2027)**.
 
 ---
 
-## What I'm Building
+## 🚀 Featured Projects
 
-| Project | What it is | Stack |
+| Project | What I built | Stack |
 |---|---|---|
-| [beBetter](https://github.com/Himancer/bebetter) | AI personal fitness companion | Python, JavaScript |
-| DostEnv *(coming soon)* | Voice-first emotional AI companion in Hinglish | Python, Whisper, NLP |
-| [EduInsta](https://github.com/Himancer/EduInsta) | AI-generated 1-min science explainer videos | Python, JS |
-| [GreenHive.ai](https://github.com/Himancer/greenhive-ai) | AI-powered plant e-commerce | Next.js 14, TypeScript |
+| [**beBetter**](https://github.com/Himancer/bebetter) | Gamified AI fitness platform with authenticated tracking, XP/levels, daily quests, streaks and an LLM coach | React 19, Flask, SQLAlchemy, PostgreSQL, JWT, Groq/Llama |
+| [**CareerPath**](https://github.com/Himancer/careerpath) | Career exploration platform with 16 mapped routes, search, quiz recommendations and security-conscious content handling | Next.js 16, React 19, TypeScript, Tailwind |
+| [**ResumeRoast**](https://github.com/Himancer/resume-roaster) | AI resume reviewer that scores resumes, produces targeted critiques and rewrites achievement bullets | Next.js 16, React 19, TypeScript, Groq LLM |
+| [**Butler**](https://github.com/Himancer/Butler) | AI creator-video application built for the Google Cloud AI Builder Cup | Gemini / Vertex AI, Cloud Run, Firestore, Cloud Storage, Firebase |
+| [**Universal Agent Memory**](https://github.com/Himancer/external-agents-Himancer) | Structured handoff layer for transferring coding-agent context, progress and open risks | AI agent tooling |
 
 ---
 
-## Tech Stack
+## 💼 Engineering Experience
 
-**AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+At **Broadridge India**, I develop and support software for fixed-income post-trade processing, including clearing & settlement workflows, trade/finance flows, BONY message processing, NSCC/GSCC functionality, depository netting and EOD settlement operations.
 
-**Web & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-**Legacy / FinTech**
-![AS400](https://img.shields.io/badge/AS400-052FAD?style=flat&logo=ibm&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-052FAD?style=flat&logo=ibm&logoColor=white)
+- Java and IBM i / AS400 development on enterprise financial systems
+- Downstream message integrations using IBM MQ and Volante
+- Production incident investigation and settlement-cycle support
+- React + REST API development and BDD automation during my engineering internship
+- Incident-triage workflow improvements that helped reduce average Remedy resolution time from ~3 days to ~1.5 days
 
 ---
 
-## Currently Learning
+## 🧰 Tech Stack
 
-- Reinforcement Learning & OpenAI Gym
-- Advanced NLP with HuggingFace Transformers
-- Voice Processing with Whisper
+**Languages & Backend**  
+Java · Python · SQL · Flask · FastAPI · Node.js · REST APIs · SQLAlchemy · JWT
+
+**Frontend**  
+React · Next.js · TypeScript · Tailwind CSS
+
+**Data & Enterprise**  
+PostgreSQL · DB2 · AS400 / IBM i · RPGLE · IBM MQ · Volante
+
+**AI / ML**  
+LLM Applications · Groq/Llama · Hugging Face · NLP · TensorFlow · scikit-learn
+
+**Engineering**  
+Git · Docker · AWS · Gherkin/Cucumber · Render · Vercel
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himancer&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himancer&layout=compact&theme=dark&hide_border=true)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himancer&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himancer&layout=compact&hide_border=true)
 
 ---
 
-## Let's Connect
+## 🎯 What I'm Targeting
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pandey-053660200)
+Backend / Software Engineering roles where I can combine **Java/Python engineering**, **financial-markets domain knowledge**, and **modern AI application development**.
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pandey-ai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://himanshu-portfolio-website-sr22.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hpin.2206@gmail.com)
-
----
-
-*"The goal isn't to choose between legacy and modern — it's to bridge both."*
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hpin.2206@gmail.com)
